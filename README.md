@@ -2,6 +2,7 @@
 <h3 align="center"> A Python | Flask | AI enthusiast  </h3>
 
  <br> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VinitChawda06&label=Profile%20Visitors&color=0e75b6&style=flat" alt="VinitChawda06" /> </p>
 
 - 💬 Ask me about <b> Python <b>
 - 🧩 Piecing together the AI puzzle with Machine Learning and cutting-edge technologies!
@@ -10,6 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinit-chawda/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/vinit_777)
 ###
 
+## 💻 Tech Stack:
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="python logo"  />
   <img width="5" />
