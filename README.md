@@ -46,7 +46,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/VinitChawda06/VinitChawda06/output/snake.svg" alt="Snake animation" />
-
 ###
